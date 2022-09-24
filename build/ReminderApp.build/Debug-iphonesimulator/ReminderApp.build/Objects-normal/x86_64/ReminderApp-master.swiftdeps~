@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "30617e4e4b683a38ae53d2be4bf9b8c3f4615e953be2238ee4f012cd5aa8d5cc"
+build_start_time: [1663832469, 694751024]
+build_end_time: [1663832469, 765432834]
+inputs:
+  "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/ActiveReminders.swift": !private [1663832438, 216341257]
+  "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/ContentView.swift": !private [1663828152, 148803710]
+  "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/NewReminder.swift": !private [1663825835, 499047756]
+  "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/Persistance.swift": !private [1663661650, 668381690]
+  "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/ReminderAppApp.swift": !private [1663660900, 447930335]
+  "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/Reminders+CoreDataClass.swift": !private [1663660442, 516159057]
+  "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/Reminders+CoreDataProperties.swift": !private [1663658451, 348406791]

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New Reminder"
+      },
+      {
+        "comment": "",
+        "key": "Active Reminders"
+      }
+    ]
+  },
+  "version": 1
+}

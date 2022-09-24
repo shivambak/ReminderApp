@@ -1,0 +1,32 @@
+{
+  "source": "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/NewReminder.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New Reminders"
+      },
+      {
+        "comment": "",
+        "key": "Enter name of Reminder"
+      },
+      {
+        "comment": "",
+        "key": "Select a date"
+      },
+      {
+        "comment": "",
+        "key": "Enter the Time"
+      },
+      {
+        "comment": "",
+        "key": "Enter the Description"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/shivambakshi/Desktop/Xcode APPS/ReminderApp/ReminderApp/ActiveReminders.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Active Reminders"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      }
+    ]
+  },
+  "version": 1
+}
